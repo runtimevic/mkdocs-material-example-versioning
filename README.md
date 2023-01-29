@@ -51,4 +51,3 @@ Now, make another change and publish a new version:
 mike deploy --push --update-aliases 0.2 latest
 ```
 
-esto es una prueba
