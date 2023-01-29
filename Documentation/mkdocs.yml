@@ -21,7 +21,7 @@
 # Project information
 site_name: My Docs
 site_url: https://runtimevic.github.io/mkdocs-material-example-versioning/
-site_author: Martin Donath
+site_author: runtimevic
 
 # Repository
 repo_name: squidfunk/mkdocs-material-example-versioning
